@@ -1,0 +1,9 @@
+services:
+
+  server:
+    build: ../
+
+  proxy:
+    build: . 
+    ports:
+      - 80:8080
