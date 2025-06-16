@@ -1,0 +1,34 @@
+img[src*="f5"] {
+    width: 45%;
+    height: 45%;
+}
+
+img[src*="f4"] {
+    width: 50%;
+    height: 50%;
+}
+
+img[src*="small"] {
+    width: 30%;
+    height: 30%;
+}
+
+img[src*="shmall"] {
+    width: 32%;
+    height: 32%;
+}
+
+img[src*="medium"] {
+    width: 40%;
+    height: 40%;
+}
+
+img[src*="ABOBA"] {
+    width: 30%;
+    height: 30%;
+
+}
+
+img[src*="ABOBA"]:hover {
+    transform: scaleX(-1);
+}
