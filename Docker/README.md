@@ -2,7 +2,6 @@
 
 Introduction to docker. Developing a simple docker image for your own server.
 
-The russian version of the task can be found in the repository.
 
 ## Contents
 
@@ -22,7 +21,7 @@ The russian version of the task can be found in the repository.
 
 ## Chapter I
 
-![simple_docker](misc/images/simple_docker.png)
+<!-- ![simple_docker](misc/images/simple_docker.png) -->
 
 Planet Earth, somewhere in the middle of the sea, today.
 

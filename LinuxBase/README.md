@@ -2,7 +2,6 @@
 
 Linux system installation and updates. Administration basics.
 
-The russian version of the task can be found in the repository.
 
 ## Contents
 
@@ -31,7 +30,7 @@ The russian version of the task can be found in the repository.
 
 ## Chapter I
 
-![linux](misc/images/linux.png)
+<!-- ![linux](misc/images/linux.png) -->
 
 >Developer’s note: \
 >For full immersion, you can play your favorite jazz song while reading the assignment.

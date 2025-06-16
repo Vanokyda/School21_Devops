@@ -2,7 +2,6 @@
 
 Linux networks configuration on virtual machines.
 
-The russian version of the task can be found in the repository.
 
 
 ## Contents
@@ -26,7 +25,7 @@ The russian version of the task can be found in the repository.
 
 ## Chapter I
 
-![linux_network](misc/images/linux_network.png)
+<!-- ![linux_network](misc/images/linux_network.png) -->
 
 Planet Earth, Seb's Jazz Club, nowadays.
 
